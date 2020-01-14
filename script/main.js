@@ -11,9 +11,11 @@ function dark() {
   } 
 //load previously selected theam on restart
 function setTheam(){
-  if (localStorage.getItem('theam')==1) {
-    dark();
-  } else if (localStorage.getItem('theam')==0) {
-    light();
-  }
+  if (localStorage.getItem("username") === null) {
+    if (localStorage.getItem('theam')==1) {
+      dark();
+    } else if (localStorage.getItem('theam')==0) {
+      light();
+    }
+  } 
 }
