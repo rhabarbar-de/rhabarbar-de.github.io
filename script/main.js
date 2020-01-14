@@ -13,7 +13,7 @@ function dark() {
 function setTheam(){
   if (localStorage.getItem('theam')==1) {
     dark();
-  } else {
+  } else if (localStorage.getItem('theam')==0) {
     light();
   }
 }
