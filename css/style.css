@@ -95,6 +95,11 @@ body {
     font-size: 4.0vw;
     line-height: 1.2;
   }
+  .about{
+    max-width: 60vw; 
+    font-size: 2vw;
+    line-height: 1.2;
+  }
 
 .nav1 a{
   padding: 10px 15px;
@@ -142,6 +147,10 @@ body {
   .otext{
     max-width: 55vw;
     font-size: 6.0vw;
+  }
+  .about{
+    max-width: 65vw;
+    font-size: 4vw;
   }
   .nav1 a{
     font-size: 15px;
