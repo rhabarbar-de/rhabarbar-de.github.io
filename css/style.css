@@ -91,13 +91,13 @@ body {
     line-height: 1.2;
   }
   .otext{
-    max-width: 40vw; 
+    max-width: 60vw; 
     font-size: 4.0vw;
     line-height: 1.2;
   }
   .about{
     max-width: 60vw; 
-    font-size: 2vw;
+    font-size: 3vw;
     line-height: 1.2;
   }
 
@@ -145,12 +145,12 @@ body {
     max-width: 70vw;
   }
   .otext{
-    max-width: 55vw;
+    max-width: 60vw;
     font-size: 6.0vw;
   }
   .about{
     max-width: 65vw;
-    font-size: 4vw;
+    font-size: 5vw;
   }
   .nav1 a{
     font-size: 15px;
